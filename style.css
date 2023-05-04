@@ -1,0 +1,121 @@
+form{display: block;
+     margin-top: 0cm;
+     background-image:url("samsung 32 led smart tv.png"); 
+     background-position:center;
+     background-repeat:no repeat;
+     background-size:cover;
+     background-color:grey;}
+input[type=text]{width:100%;
+                 margin:8px;
+                  box-sizing:border-box;}
+fieldset{padding:10px;
+          border-style:dotted;
+          border-width:10px;
+          border-color:red;}   
+h1{font-size:36px;
+       color:blue;
+       font-family: algerian;
+       text-align:center;}
+h2{font-size:30px;
+   color:blue;
+   font-family:algerian;
+   text-align:center;}
+#emoji{text-align:center;}
+       
+#para1{font-size: 14px;
+       color: black;
+       font-family:arial black;}
+#border1{border-style:groove;}
+#para3{font-size:20px;
+       color:green;
+       font-family:arial black;}
+#para4{font-size:20px;
+       color:green;
+       font-family:arial black;}
+#para5{font-size:20px;
+       color:green;
+       font-family:arial balck;}
+.head1{font-size:18px;
+       color:blue;
+       font-family:algerian;
+       background-color:red;}
+  .head2{font-size:18px;
+       color:black;
+       font-family:arial black;
+       background-color:green;}
+  .head3 {font-size:18px;
+       color:black;
+       font-family:arial black;
+       background-color:red;}  
+.head4{font-size:18px;
+       color:black;
+       font-family:arial black;
+       background-color:green;}
+.head5{font-size:18px;
+       color:black;
+       font-family:arial black;
+       background-color:red;}
+.head6{font-size:18px;
+       color:black;
+       font-family:arial black;
+       background-color:green;}
+.head7{font-size:18px;
+       color:black;
+       font-family:arial black;
+       background-color:red;}
+
+#pd{text-align:left;
+    font-size:20px;
+    font-family:arial black;
+    color:black;}
+#ed{text-align:left;
+    font-size:20px;
+    font-family:arial black;
+    color:black;}
+body{background-image:url("samsung 32 led smart tv.png");
+     background-position:center;
+     background-repeat:no repeat;
+     background-size:cover;
+     background-color:pink;}
+.li{font-size:14px;
+    font-family:arial black;}
+
+       .btn{
+              background-color: black;
+              color: white;
+              align:center;
+              margin-left: 100px;
+              border-radius: 3px;
+              padding: 10px;
+              border: 1px solid black;
+
+       }
+       .btn a{
+              color:white;
+              text-decoration: none;
+       }
+             
+#smart{font-size:36px;
+       font-family:algerian;
+       text-align:center;}
+table{border:2px solid black;
+       border-color:blue;
+       border-style:groove;
+       padding:15px;
+       text-align:center;
+       background-color:pink;}
+ 
+tr{color:black;
+   font-family:arial black;}
+#line1{color:blue;
+       font-family:arial black;
+       font-size:14px;}
+#set{background-color:pink;
+     border style:groove;
+     border-color:green;
+     padding:15px;
+     font-family:algerian;}
+
+
+
+
